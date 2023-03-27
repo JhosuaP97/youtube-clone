@@ -8,8 +8,6 @@ To create this application I have learned how to use the YouTube API through [Ra
 
 ![demo youtube clone gif](https://user-images.githubusercontent.com/25392323/227989090-5660121f-ee89-4384-a0ef-33be29da9f22.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### 🛠️ Tech stack
 
 - React JS
